@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **SoundCourse**
 
-- 🌱 I’m currently learning **Flutter, Dart, Python, Java**
+- 🌱 I’m currently learning **Flutter, Dart, Kotlin, Java**
 
 - 👨‍💻 All of my projects are available at [github.com/argentarevealed](github.com/argentarevealed)
 
-- 💬 Ask me about **Flutter, Dart, HTML Css, Java, Python**
+- 💬 Ask me about **Flutter, Dart, Kotlin XML, Java, Python**
 
 - 📫 How to reach me **adaaparbz@gmail.com**
 
