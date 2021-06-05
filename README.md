@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danang dwi gusti fajar yanto</h1>
-<h3 align="center">A passionate full stack cross platform developer</h3>
+<h3 align="center">A passionate full stack mobile developer</h3>
 
 <p align="left"> <a href="https://twitter.com/argentareal" target="blank"><img src="https://img.shields.io/twitter/follow/argentareal?logo=twitter&style=for-the-badge" alt="argentareal" /></a> </p>
 
