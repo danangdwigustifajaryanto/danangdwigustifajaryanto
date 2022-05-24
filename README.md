@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/argentareal" target="blank"><img src="https://img.shields.io/twitter/follow/argentareal?logo=twitter&style=for-the-badge" alt="argentareal" /></a> </p>
 
-- 🔭 I’m currently working on **Gentmorph**
+- 🔭 I’m currently working on **Schooloflifeandwellness**
 
 - 🌱 I’m currently learning **Flutter, Dart, Kotlin, Java**
 
