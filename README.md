@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1>Hi there 👋, I'm Danang Dwi Gusti Fajar Yanto!</h1>
-    <p>As a Computer Science student, I possess a unique combination of skills that includes programming, graphic design, and creative content creation. Additionally, I have experience as a writer, presenter and researcher, having published articles in international journals. With a strong command of the English language, I am able to create informative and engaging content on various social media platforms.</p>
+    <p>As a Computer Science student, I have a unique set of skills that include programming, graphic design, and the creation of creative content. In addition, I have published articles in international publications as a writer, presenter, and researcher. I am able to write useful and entertaining material on numerous social media platforms due to my great grasp of the English language.</p>
     <h2>Skills</h2>
     <ul>
       <li>Java</li>
