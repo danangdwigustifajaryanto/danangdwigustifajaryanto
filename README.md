@@ -23,7 +23,7 @@
       <li>Web Developer at School Of Life and Wellness</li>
     </ul>
     <h2>Portfolio</h2>
-    <p>My portfolio showcases some of my best works and can be viewed on <a href="https://www.linkedin.com/in/danangdwi/">LinkedIn</a>. Posting my portfolio on LinkedIn allows for better visibility and is more convenient for me.</p>
+    <p>My portfolio showcases some of my best works and can be viewed on <a href="https://www.linkedin.com/in/danangdwi/">LinkedIn</a> and <a href="https://danangdwi.carrd.co/">My Personal Website</a>. Posting my portfolio on LinkedIn allows for better visibility and is more convenient for me.</p>
     <h2>Contact Me</h2>
     <p>Feel free to contact me via email at <a href="mailto:fajardanangdwi@gmail.com">fajardanangdwi@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/danangdwi/">LinkedIn</a>.</p>
     <p>Thank you for visiting my GitHub profile!</p>
