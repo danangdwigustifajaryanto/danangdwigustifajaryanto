@@ -5,8 +5,8 @@
   </head>
   <body>
     <h1>Hi there 👋, I'm Danang Dwi Gusti Fajar Yanto!</h1>
-    <p>As a Computer Science student, I have a unique set of skills that include programming, graphic design, and the creation of creative content. In addition, I have published articles in international publications as a writer, presenter, and researcher. I am able to write useful and entertaining material on numerous social media platforms due to my great grasp of the English language.</p>
-    <h2>Skills</h2>
+    <p>I am a <strong>Software Engineering Teacher at SMKN 8 Malang</strong>. With a background in Computer Science, I have a diverse set of skills in programming, graphic design, and creative content development. I have also published articles in international journals as a writer, presenter, and researcher. My strong command of the English language enables me to produce informative and engaging content across various social media platforms.</p>
+    <h2>Programming Skills</h2>
     <ul>
       <li>Java</li>
       <li>HTML</li>
@@ -18,7 +18,7 @@
       <li>C++</li>
       <li>UI/UX</li>
     </ul>
-    <h2>Programing Work Experience</h2>
+    <h2>Programming Work Experience</h2>
     <ul>
       <li>Web Developer at School Of Life and Wellness</li>
     </ul>
